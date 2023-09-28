@@ -1,0 +1,23 @@
+External styles
+      
+        h2 {
+            color: yellow;
+            font-size: 38px;
+            font-style: medium ;
+            }
+
+        table{
+            border-collapse: collapse;
+            border-color: rgb(215, 149, 49);
+            width: 70%
+        }
+        
+        body{
+            background-color:rgb(205, 239, 14);
+            color: azure(80, 150, 200);
+            font-family: serif;
+        }
+
+        th, td{
+            border: 20px solid rgb(141, 73, 31);
+        }
